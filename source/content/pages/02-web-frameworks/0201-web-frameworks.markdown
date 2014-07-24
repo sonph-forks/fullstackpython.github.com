@@ -48,7 +48,7 @@ have a minimal code library that plays well with extensions.
 For example, the Django web application framework includes an 
 Object-Relational Mapping (ORM) layer that abstracts relational database 
 read, write, query, and delete operations. However, Django's ORM
-cannot work without significant modification on non-relational databases such 
+cannot work without significant modification on non-relational databases such as 
 [MongoDB](http://www.mongodb.org/).
 Some other web frameworks such as Flask and Pyramid are easier to
 use with non-relational databases by incorporating external Python libraries.
